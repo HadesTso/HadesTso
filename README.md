@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left"> <img src="https://metrics.lecoq.io/HadesTso"> </div>
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=HadesTso&theme=xcode" /> </div>
-
- . | .
 --- | --- 
 ![HadesTso's github stats](https://github-readme-stats.vercel.app/api?username=HadesTso&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HadesTso&theme=radical&layout=compact)
 
