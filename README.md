@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
---- | --- 
-![HadesTso's github stats](https://github-readme-stats.vercel.app/api?username=HadesTso&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HadesTso&theme=radical&layout=compact)
+![HadesTso's github stats](https://github-readme-stats.vercel.app/api?username=HadesTso&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HadesTso&theme=radical&layout=compact)
 
 
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadesTso" /> </div>
